@@ -1,4 +1,4 @@
-### MemeVault ###
+# MemeVault #
 A quick and dirty script that parsers a facebook group's feed for pictures to download.
 
 ## Requirements ##
@@ -10,6 +10,6 @@ A quick and dirty script that parsers a facebook group's feed for pictures to do
 ## Setup ##
 Simply replace the given information in 'config.py' for your own.
 
-## Contact ##
+### Contact ###
 * Charlie "Porthog" Miller
 * charliea.miller@gmail.com
