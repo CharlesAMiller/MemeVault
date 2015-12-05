@@ -1,0 +1,5 @@
+# Make sure we don't commit any of our own byte code
+*.pyc
+
+# Make sure we can't potentially commit any of our own downloaded pictures
+*.jpg
